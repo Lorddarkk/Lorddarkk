@@ -7,4 +7,6 @@ I am a student looking for opportunities and collabaration in projects related t
 - 🤝 I’m looking to collaborate on programming projects. 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=lorddarkk)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorddarkk)](https://github.com/lorddarkk/github-readme-stats)
+
 
